@@ -140,7 +140,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "elie222",
+        "owner": "gchip100",
         "repo": "rakazo"
       }
     ]
